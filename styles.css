@@ -1,5 +1,39 @@
+body{
+    background-color: black;
+}
+
 h1{
-    color: midnightblue;
+    color: palegoldenrod;
     text-align: center;
-    font-family: cursive;
+    font-family: 'Arial Narrow';
+    font-weight: bold;
+}
+
+h3{
+    color: palegoldenrod;
+    text-align: center;
+    font-weight: bold;
+}
+
+p{
+    color: whitesmoke;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer{
+    color: whitesmoke;
+    text-align: center;
+    font-weight: bold;
+}
+
+img{
+    border: 2px solid white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+   
+    
+
 }
